@@ -1,3 +1,7 @@
+Project for the Intelligent Information Systems subject, 2021/2022.
+
+The research from this project ended up in a paper titled "[Ontology Reuse: the Real Test of Ontological Design](https://github.com/Ostrzyciel/ontology-quality-2022)".
+
 ## Ontology
 
 In the experiments, the Computer Science Ontology 3.3 was used, it can be downloaded from [here](https://cso.kmi.open.ac.uk/downloads). The CSO data model (upper ontology) can be found [here](https://cso.kmi.open.ac.uk/schema/cso). As the upper ontology is not versioned, its copy is included here, in the `cso_upper.ttl` file.
